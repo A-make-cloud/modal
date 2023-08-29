@@ -109,7 +109,7 @@ h1 {
 .open-button {
   border: 0;
   position: absolute;
-  top: 85%;
+  top: 62%;
   left: 50%;
   transform: translate(-50%, -50%);
   background: rgb(61, 116, 61);
